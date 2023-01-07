@@ -44,6 +44,7 @@ header .header-content{
     gap: 90px;
     padding: 0px 100px 0px 100px;
 }
+
 .my-fail .pic img{
     width: 569px;
     height: 723px;
@@ -57,4 +58,27 @@ header .header-content{
 .my-fail li{
     margin-top: 28px;
     list-style-type: none;
+}
+/*My Plans*/
+.my-plans-title{
+    text-align: center;
+    margin-top: 60px;
+    font-size: 35px;
+}
+.my-plans{
+    display: flex;
+    margin: 70px 200px 0px 200px;
+    gap: 100px;
+}
+.my-plans .icon{
+    align-items: center;
+}
+.my-plans .icon-title{
+    margin-top: 20px;
+    font-size: 20px;
+}
+.my-plans .icon-des{
+    margin-top: 20px;
+    color: rgb(104, 104, 104);
+    text-align: center;
 }
