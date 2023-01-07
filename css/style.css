@@ -12,7 +12,7 @@ header{
 }
 
 header .header-content{
-    padding-top: 130px;
+    padding-top: 190px;
     align-items: center;
 
 }
@@ -46,10 +46,13 @@ header .header-content{
     gap: 90px;
     padding: 0px 100px 0px 100px;
 }
+.my-fail .text{
+    margin-top: 40px;
+}
 
 .my-fail .pic img{
-    width: 569px;
-    height: 723px;
+    width: 469px;
+    height: 550px;
 }
 .my-fail .text-title{
     font-size: 40px;
